@@ -11,7 +11,7 @@ The notebook for the assignment is [assignment1.ipynb](https://github.com/rlesiy
 
 At the top of the notebook, there are commands to download the data.
 
-The notebook is divide by section; 1. `data download and processing`, 2. `cluster analysis`, and `Cluster Evaluation and Interpretation`. I include explaination in 
+The notebook is divide by section; 1. `data download and processing`, 2. `cluster analysis`, and 3. `Cluster Evaluation and Interpretation`. I include explainations for the results in section 2, and 3.
 
 __Environment__
 
