@@ -7,7 +7,11 @@ __Structure:__
 
 The notebook for the assignment is available at `assignments` folder in the [repository](https://github.com/rlesiyon/cu-cpbs-7602). 
 
-The notebook for the assignment is [assignment1.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignment1.ipynb). Run the notebook from the top to download the data for this assignment. 
+The notebook for the assignment is [assignment1.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignment1.ipynb). 
+
+At the top of the notebook, there are commands to download the data.
+
+The notebook is divide by section; 1. `data download and processing`, 2. `cluster analysis`, and `Cluster Evaluation and Interpretation`. I include explaination in 
 
 __Environment__
 
