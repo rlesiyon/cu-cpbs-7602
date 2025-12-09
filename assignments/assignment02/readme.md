@@ -5,13 +5,13 @@ This README describes the work for predicting gene expression using both linear,
 
 __Structure:__ 
 
-Notebook: 
+    Notebook
 
 The notebook for the assignment is available at `assignments` folder in the [repository](https://github.com/rlesiyon/cu-cpbs-7602). 
 
 The notebook for the assignment is [assignments02/assignment2.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignment02/assignment2.ipynb). 
 
-Data: 
+    Data
 
 The data is download in the assignment02 notebook, and store at ../data folder in the repository. 
 
