@@ -1,6 +1,6 @@
-## Tissues of origin analysis
+## Linear predictors using gene expression
 
-This README describes the work for understanding the tissue of origin gene expression clustering, and classification. 
+This README describes the work for predicting gene expression using both linear, and logistic regression
 
 
 __Structure:__ 
@@ -9,11 +9,11 @@ Notebook:
 
 The notebook for the assignment is available at `assignments` folder in the [repository](https://github.com/rlesiyon/cu-cpbs-7602). 
 
-The notebook for the assignment is [assignments02/assignment2.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignments02/assignment2.ipynb). 
+The notebook for the assignment is [assignments02/assignment2.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignment02/assignment2.ipynb). 
 
 Data: 
 
-Will be download to `data` folder. In the notebook, the gene expression + metadata + phenotype is downloaded in the notebook first cells. 
+The data is download in the assignment02 notebook, and store at ../data folder in the repository. 
 
 __Environment__
 
