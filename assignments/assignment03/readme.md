@@ -6,7 +6,7 @@ __Structure:__
 
 The notebook for the assignment is available at `assignments` folder in the [repository](https://github.com/rlesiyon/cu-cpbs-7602). 
 
-The notebook for the assignment is [assignments03/assignment3.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignment03/assignment3.ipynb). 
+The notebook for the assignment is [assignments03/assignment03.ipynb](https://github.com/rlesiyon/cu-cpbs-7602/blob/main/assignments/assignment03/assignment03.ipynb). 
 
     Data
 
